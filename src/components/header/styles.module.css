@@ -1,0 +1,22 @@
+.header {
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #FFFFFF;
+}
+
+.navBar {
+    width: 600px;
+    height: 52.6px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+
+.navLink {
+    color: #262626;
+    font: normal 700 2em Arial;
+    text-decoration: none;
+}

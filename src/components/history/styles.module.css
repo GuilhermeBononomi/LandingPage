@@ -1,0 +1,42 @@
+.history {
+    width: 100%;
+    max-height: max-content;
+    background-color: #C1CDA3;
+    align-items: center;
+}
+
+.supportContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.historyTitle {
+    display: inline-block;
+    color: #262626;
+    font: normal 700 4em Arial;
+    text-decoration: none;
+    margin-top: 48.5px;
+}
+
+.historyContainer {
+    margin: 21.5px auto 56px auto;
+    width: 1280px;
+    height: 237px;
+}
+
+.historyContent {
+    color: #000;
+    text-align: center;
+    font: normal 700 2em Arial;
+    line-height: 140%;
+    text-align: justify;
+    text-indent: 2em;
+}
+
+.historyImg {
+    display: block;
+    margin: auto;
+    width: 1000px;
+}
+
